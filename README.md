@@ -25,3 +25,6 @@ Story writing,
 Code completion,
 
 Email suggestions, and more.
+
+*OUTPUT
+<img width="404" height="54" alt="Image" src="https://github.com/user-attachments/assets/36fead13-a9ce-4b5f-9413-8ffb8e3e51ca" />
